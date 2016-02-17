@@ -25,3 +25,5 @@ display.stop()
 #parse data
 
 #delete tempfiles
+
+os.remove("supreme.html")
