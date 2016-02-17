@@ -21,3 +21,5 @@ print >> outfile, soup.prettify()
 
 driver.quit()
 display.stop()
+
+#parse data
