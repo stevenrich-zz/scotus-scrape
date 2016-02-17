@@ -23,3 +23,5 @@ driver.quit()
 display.stop()
 
 #parse data
+
+#delete tempfiles
